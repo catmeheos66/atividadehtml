@@ -1,0 +1,306 @@
+#box{
+    box-sizing: border-box;
+}
+
+
+#img1{
+    width: 150px;
+     height: 150px;
+     
+  
+}
+
+#img{
+    position:absolute;
+    width: 250px; 
+    height: 250px;
+}
+   
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 150px;
+    }
+    #box{
+        box-sizing: border-box;
+    }
+    #topo{
+      
+        height: 150px;
+        background-color:#050B0F;
+    }
+    #img1{
+        width: 150px;
+         height: 150px;
+         
+      
+    }
+    #corpo{
+         
+           height: 600px;
+         
+       
+           background:#BB9A3E;
+           box-sizing: border-box;
+    
+    }
+    #rodapé{
+        
+        height: 100px;
+        background-color:#C1B376;
+        box-sizing: border-box;
+       
+    }
+    
+    #enquete{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    position:relative;
+    background-color: #9E8947;
+    float: right;
+    display: block;
+    text-decoration: none;
+    border: 0px solid #ccc;
+    
+    height: 850px;
+    width: 300px;
+    }
+
+    
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        width: 150px;
+        }
+    
+        ul li {
+            position: relative;
+            }
+    
+            li ul {
+                position: absolute;
+                left: 149px;
+                top: 0;
+                display: none;
+                }
+    
+                ul li a {
+                    display: block;
+                    text-decoration: none;
+                    color: #E2144A;
+                    background: #fff;
+                    padding: 5px;
+                    border: 1px solid #ccc;
+                 }
+    
+                 /* Fix IE. Hide from IE Mac \*/
+    * html ul li { float: left; }
+    * html ul li a { height: 1%; }
+    /* End */
+    
+    li:hover ul { display: block; }
+    
+    
+    
+    ul li a:hover{
+        text-decoration:underline;
+        font-weight: bold;
+        background: rgb(204, 204, 204);
+     }
+      #img2{
+        width: 200px;
+        height: 200px;
+    
+      } 
+        
+
+        li ul {
+            position: absolute;
+            left: 149px;
+            top: 0;
+            display: none;
+            }
+
+            ul li a {
+                display: block;
+                text-decoration: none;
+                color: #E2144A;
+                background: #fff;
+                padding: 5px;
+                border: 1px solid #ccc;
+             }
+
+             /* Fix IE. Hide from IE Mac \*/
+* html ul li { float: left; }
+* html ul li a { height: 1%; }
+/* End */
+
+li:hover ul { display: block; }
+
+
+
+ul li a:hover{
+    text-decoration:underline;
+    font-weight: bold;
+    background: rgb(204, 204, 204);
+ }
+
+ #box{
+    box-sizing: border-box;
+}
+
+
+#img1{
+    width: 150px;
+     height: 150px;
+     
+  
+}
+
+#img{
+    position:absolute;
+    width: 210px; 
+    height: 210px;
+}
+   
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 150px;
+    }
+    #box{
+        box-sizing: border-box;
+    }
+    #topo{
+      
+        height: 150px;
+        background-color:#050B0F;
+    }
+    #img1{
+        width: 150px;
+         height: 150px;
+         
+      
+    }
+    #corpo{
+         
+           height: 600px;
+         
+       
+           background:#BB9A3E;
+           box-sizing: border-box;
+    
+    }
+    #rodapé{
+        
+        height: 100px;
+        background-color:#C1B376;
+        box-sizing: border-box;
+       
+    }
+    
+    #enquete{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    position:relative;
+    background-color: #9E8947;
+    float: right;
+    display: block;
+    text-decoration: none;
+    border: 0px solid #ccc;
+    
+    height: 850px;
+    width: 300px;
+    }
+
+    
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        width: 150px;
+        }
+    
+        ul li {
+            position: relative;
+            }
+    
+            li ul {
+                position: absolute;
+                left: 149px;
+                top: 0;
+                display: none;
+                }
+    
+                ul li a {
+                    display: block;
+                    text-decoration: none;
+                    color: #E2144A;
+                    background: #fff;
+                    padding: 5px;
+                    border: 1px solid #ccc;
+                 }
+    
+                 /* Fix IE. Hide from IE Mac \*/
+    * html ul li { float: left; }
+    * html ul li a { height: 1%; }
+    /* End */
+    
+    li:hover ul { display: block; }
+    
+    
+    
+    ul li a:hover{
+        text-decoration:underline;
+        font-weight: bold;
+        background: rgb(204, 204, 204);
+     }
+      #img2{
+        width: 200px;
+        height: 200px;
+    
+      } 
+        
+
+        li ul {
+            position: absolute;
+            left: 149px;
+            top: 0;
+            display: none;
+            }
+
+            ul li a {
+                display: block;
+                text-decoration: none;
+                color: #E2144A;
+                background: #fff;
+                padding: 5px;
+                border: 1px solid #ccc;
+             }
+
+             /* Fix IE. Hide from IE Mac \*/
+* html ul li { float: left; }
+* html ul li a { height: 1%; }
+/* End */
+
+li:hover ul { display: block; }
+
+
+
+ul li a:hover{
+    text-decoration:underline;
+    font-weight: bold;
+    background: rgb(204, 204, 204);
+ }
+ 
+  
+ 
+  
+        
